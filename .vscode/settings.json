@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "local220712"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
